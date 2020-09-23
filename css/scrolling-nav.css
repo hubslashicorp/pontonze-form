@@ -44,6 +44,11 @@ form.formulario {
   border-color: #000000;
   position: relative;
 }
+.btn-primary:link {
+  color: rgb(191 115 34 / 0.9);
+  background-color: #000000;
+  border-color: #000000;
+}
 .btn-primary:hover {
   color:  #000000;
   background-color: rgb(191 115 34 / 0.9);

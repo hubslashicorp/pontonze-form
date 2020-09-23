@@ -9,8 +9,7 @@ window.addEventListener("DOMContentLoaded", function() {
     // Success and Error functions for after the form is submitted
 
     function success() {
-        form.reset();
-        alert("Mensagem enviada, obrigado!")
+        alert("Estamos ti direcionando para o WhatsApp da nossa equipe um momento...")
     }
 
     function error() {
