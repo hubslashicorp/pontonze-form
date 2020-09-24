@@ -17,20 +17,16 @@ form.formulario {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    width: 55%;
+    width: 65%;
 }
-
-
 .navbar-brand {
+    margin-right:10px;
     height: 50px;
 }
 .mensagem {
   height: 150px;
   padding: 15px;
 }
-/* .form-group {
-  left: 23%;
-} */
 .title {
   text-align: center;
 }
