@@ -43,7 +43,7 @@ formulario.addEventListener('submit', (event) => {
             formulario.reset();
         }else{
             window.open(urlDesktop + mensaje, '_blank')
-            alert("Estamos te direcionando para o WhatsApp da nossa equipe...")
+            // alert("Estamos te direcionando para o WhatsApp da nossa equipe...")
             formulario.reset();
         }
         buttonSubmit.innerHTML = '<i class="fab fa-whatsapp"></i> Cadastrar'
