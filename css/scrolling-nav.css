@@ -16,7 +16,7 @@ form.formulario {
 }
 
 .navbar-brand {
-    height: 57px;
+    height: 55px;
 }
 .mensagem {
   height: 150px;
@@ -37,7 +37,7 @@ form.formulario {
   display: flex;
     height: 100%;
     position: relative;
-    padding-right: 10px;
+    padding-right: 5px;
 }
 .btn-primary {
   color: rgb(191 115 34 / 0.9);
